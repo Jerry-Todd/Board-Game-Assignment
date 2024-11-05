@@ -1,0 +1,14 @@
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/bin/Debug/net8.0/boardgame
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/bin/Debug/net8.0/boardgame.deps.json
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/bin/Debug/net8.0/boardgame.runtimeconfig.json
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/bin/Debug/net8.0/boardgame.dll
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/bin/Debug/net8.0/boardgame.pdb
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.AssemblyInfoInputs.cache
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.AssemblyInfo.cs
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.csproj.CoreCompileInputs.cache
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.dll
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/refint/boardgame.dll
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.pdb
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/boardgame.genruntimeconfig.cache
+/home/jerry/Documents/VSCODE/csharp/Board Game Assignment/boardgame/obj/Debug/net8.0/ref/boardgame.dll
